@@ -3,8 +3,8 @@ export default {
   data() {
     return {
       sliderValue: 0, // 滑块的值
-      inputImageRootPath:  './image_slider/huaqiang/input/', // 图片存放路径
-      outputImageRootPath: './image_slider/huaqiang/output/',
+      inputImageRootPath:  './image_slider/UCCS/input/', // 图片存放路径
+      outputImageRootPath: './image_slider/UCCS/output/',
       inputImagePath: '',
       outputImagePath: '',
       inputLoading: true,

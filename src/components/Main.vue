@@ -18,20 +18,20 @@ import GaussianSplats3D from './sections/GaussianSplats3D.vue'
 export default {
   components: {
     Title,
-    Abstract,
+    Abstract, //摘要
     BibTeX,
-    Carousel,
-    Video,
-    ImageSlider,
-    ImageSliderInner,
-    Echart,
-    Collapse,
-    Table,
-    SeletionForComparison,
-    Comment,
-    Latex,
-    Model3D,
-    GaussianSplats3D
+    Carousel, //图片轮播
+    // Video,
+    ImageSlider, //适合uccs那个
+    ImageSliderInner, //一幅图可以拖拽那个
+    // Echart,
+    // Collapse,
+    Table, //可以做个表格
+    // SeletionForComparison,
+    // Comment,
+    // Latex,
+    // Model3D,
+    // GaussianSplats3D
   }
 }
 </script>
