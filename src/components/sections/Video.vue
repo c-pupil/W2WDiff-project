@@ -112,7 +112,7 @@
       <el-col :xs="24" :sm="12" :md="10" :lg="8" :xl="6">
         <el-container id="video-container-left">
           <video controls>
-            <source src="/public/video/UCCS_bg.mp4" type="video/mp4" />
+            <source src="./video/UCCS_bg.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </el-container>
@@ -120,7 +120,7 @@
       <el-col :xs="24" :sm="12" :md="10" :lg="8" :xl="6">
         <el-container id="video-container-right">
           <video controls>
-            <source src="/public/video/UCCS_bg_enhance.mp4" type="video/mp4" />
+            <source src="./video/UCCS_bg_enhance.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </el-container>
