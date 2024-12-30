@@ -21,7 +21,7 @@ export default {
     Abstract, //摘要
     BibTeX,
     Carousel, //图片轮播
-    // Video,
+    Video, //视频
     ImageSlider, //适合uccs那个
     ImageSliderInner, //一幅图可以拖拽那个
     // Echart,
